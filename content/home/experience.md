@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Recife"
   date_start = "2018-06-07"
   date_end = "2019-06-03"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 +++
