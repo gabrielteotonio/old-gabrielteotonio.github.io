@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Work with large, complex data sets.
+  * Solve analysis problems, applying advanced analytical methods as needed.
+  * Build and prototype analysis pipelines iteratively to provide insights at scale.
+  * Work closely with Engineers to identify opportunities for, design, and assess improvements of In Loco products.
   """
 
 [[experience]]
