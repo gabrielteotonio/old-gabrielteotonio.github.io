@@ -1,6 +1,6 @@
 +++
 title = "Web application development with R Shiny: how to scale data products quickly and reliably"
-date = 2020-01-24T15:28:00  
+date = 2019-10-11T11:10:00  
 draft = false
 
 # Talk start and end times.
