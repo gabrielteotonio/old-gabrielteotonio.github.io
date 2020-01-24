@@ -13,10 +13,10 @@ baseurl = "https://gabrielteotonio.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy;"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-156900862-1"
 
 ############################
 ## Advanced options below ##
