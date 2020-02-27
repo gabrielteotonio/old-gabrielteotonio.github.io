@@ -45,8 +45,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: telegram
+  icon_pack: fab
+  link: https://telegram.me/gabrielteotonio
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://linkedin.com/in/gabrielteotonio/
 - icon: github
   icon_pack: fab
