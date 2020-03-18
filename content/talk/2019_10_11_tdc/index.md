@@ -37,7 +37,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://docs.google.com/presentation/d/1CZ0b_JN0GOvzNn5ojPhPeCQveqDf4U1a1_izvOdc3vQ/edit?usp=sharing"
+url_slides = "https://drive.google.com/file/d/1V0n6GIBuPTSJWDDXXX-y2LJDzrmclvPY/view?usp=sharing"
 url_video = ""
 url_code = ""
 
