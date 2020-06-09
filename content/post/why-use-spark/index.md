@@ -29,5 +29,6 @@ focal_point = ""
 preview_only = false
 
 +++
-  
-Text here
+
+When I started my professional career as a Data Scientist two years ago, the first challenge introduced was be able to deal with large data sets in a cloud platform. Among many tooling frameworks to get started by the time, ![Spark](https://spark.apache.org/) played a big role and there are many reasons for that. Spark is considered as a *unified analytics engine for large-scale data processing* and its generality combining SQL, streaming, and complex analytics brings up this popularity.  
+To understand more about how Spark became reference in the big data scenario it's good to see the history behind.
